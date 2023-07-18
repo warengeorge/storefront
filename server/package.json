@@ -1,0 +1,27 @@
+{
+    "name": "node-express-storefront",
+    "version": "1.0.0",
+    "description": "A simple storefront built with Node.js and Express",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "dependencies": {
+        "ejs": "^3.1.3",
+        "express": "^4.17.1",
+        "mongoose": "^5.9.23",
+        "nodemon": "^2.0.2",
+        "validator": "^13.9.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/warengeorge/storefront.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/warengeorge/storefront/issues"
+    },
+    "homepage": "https://github.com/warengeorge/storefront#readme"
+}
